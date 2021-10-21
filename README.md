@@ -1,4 +1,4 @@
-##### I am a 23-year-old developer from Izmir,
+##### I am a 24-year-old developer from Izmir,
 ###### :mortar_board: BSc, Boğaziçi University, Molecular Biology and Genetics
 ###### :mortar_board: MS, Bilkent University, Computer Science (currently)
 ###### :school_satchel: Worked on a biological data analysis research project at Case Western Reserve University, US, [Phosphorylator](https://sb4j.case.edu/wsgi/phosphorylator/)
